@@ -1,15 +1,13 @@
-# Gameboard
+# Marvel Comics
 
-# Gameboard - scoreboard app
-> A scoreboard mock-up project to display NBA scores of different teams. 
-> Live demo [_here_](https://impriyashankar.github.io/Gameboard/). <!-- If you have the project hosted somewhere, include the link here. -->
+> List Marvel comics by a search string entered by the user. 
+> Live demo [_here_](https://impriyashankar.github.io/Marvel-Comics/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -24,7 +22,7 @@ It allows the user to:
 ## Technologies Used
 - HTML
 - CSS
-- jQuery
+- Javascript
 
 
 ## Screenshots
@@ -37,14 +35,3 @@ It allows the user to:
 Clone this repo to your desktop. Go to its root directory and run `serve`. You will then be able to access it at localhost:8000
 
 
-
-## Acknowledgements
-
-- This project was part of a project on [Codecademy's](https://www.codecademy.com) jQuery course.
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
